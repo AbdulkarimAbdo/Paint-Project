@@ -26,7 +26,7 @@ Launch the Application
 
 1. Run the PaintBrush class to start the application.
 2. The main window will appear with a canvas and a toolbar at the top.
-3. 
+   
 Select a Shape or Tool
 
 • Use the 'Shapes' panel to select the shape or tool you want to use (e.g., Rectangle, Oval, Line, Freehand, Eraser, etc.).
@@ -66,6 +66,8 @@ Running the Project
 2. Open the project in your preferred IDE.
 3. Navigate to the PaintBrush class.
 4. Run the main method to launch the application.
+   
 Author:
+
 Abdulkarim Abdulkarim Abdo 
 Mariam Abdo Elmoneim 
